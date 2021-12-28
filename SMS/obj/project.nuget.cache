@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Au24NHbOqR2l2hEb9rBLOxOqoowR+F8BHHb64CCOfy0Cf97lcnyFAd0Nru4c6GPxaQCXIqZmjNeZdcI7UAL4A==",
+  "dgSpecHash": "QcLIB9TdLP+ZCqebbWd5iqRCOgLikH5LPq+Ba+KGODQFrO2jx0Y2daSts6TjR+t51+GjH7ClsWE7DWagvPj4Nw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\SMS\\SMS\\SMS.csproj",
+  "projectFilePath": "E:\\Projects .Net Core\\SMS\\SMS\\SMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

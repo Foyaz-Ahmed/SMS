@@ -9911,11 +9911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\SMS\\SMS\\SMS.csproj",
+      "projectUniqueName": "E:\\Projects .Net Core\\SMS\\SMS\\SMS.csproj",
       "projectName": "SMS",
-      "projectPath": "E:\\Projects\\SMS\\SMS\\SMS.csproj",
+      "projectPath": "E:\\Projects .Net Core\\SMS\\SMS\\SMS.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\SMS\\SMS\\obj\\",
+      "outputPath": "E:\\Projects .Net Core\\SMS\\SMS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9932,20 +9932,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\SMS\\SMS.ApplicationDataService\\SMS.ApplicationDataService.csproj": {
-              "projectPath": "E:\\Projects\\SMS\\SMS.ApplicationDataService\\SMS.ApplicationDataService.csproj"
+            "E:\\Projects .Net Core\\SMS\\SMS.ApplicationDataService\\SMS.ApplicationDataService.csproj": {
+              "projectPath": "E:\\Projects .Net Core\\SMS\\SMS.ApplicationDataService\\SMS.ApplicationDataService.csproj"
             },
-            "E:\\Projects\\SMS\\SMS.ApplicationService\\SMS.ApplicationService.csproj": {
-              "projectPath": "E:\\Projects\\SMS\\SMS.ApplicationService\\SMS.ApplicationService.csproj"
+            "E:\\Projects .Net Core\\SMS\\SMS.ApplicationService\\SMS.ApplicationService.csproj": {
+              "projectPath": "E:\\Projects .Net Core\\SMS\\SMS.ApplicationService\\SMS.ApplicationService.csproj"
             },
-            "E:\\Projects\\SMS\\SMS.DataAccess\\SMS.DataAccess.csproj": {
-              "projectPath": "E:\\Projects\\SMS\\SMS.DataAccess\\SMS.DataAccess.csproj"
+            "E:\\Projects .Net Core\\SMS\\SMS.DataAccess\\SMS.DataAccess.csproj": {
+              "projectPath": "E:\\Projects .Net Core\\SMS\\SMS.DataAccess\\SMS.DataAccess.csproj"
             },
-            "E:\\Projects\\SMS\\SMS.Models\\SMS.Models.csproj": {
-              "projectPath": "E:\\Projects\\SMS\\SMS.Models\\SMS.Models.csproj"
+            "E:\\Projects .Net Core\\SMS\\SMS.Models\\SMS.Models.csproj": {
+              "projectPath": "E:\\Projects .Net Core\\SMS\\SMS.Models\\SMS.Models.csproj"
             },
-            "E:\\Projects\\SMS\\SMS.Utilities\\SMS.Utilities.csproj": {
-              "projectPath": "E:\\Projects\\SMS\\SMS.Utilities\\SMS.Utilities.csproj"
+            "E:\\Projects .Net Core\\SMS\\SMS.Utilities\\SMS.Utilities.csproj": {
+              "projectPath": "E:\\Projects .Net Core\\SMS\\SMS.Utilities\\SMS.Utilities.csproj"
             }
           }
         }
