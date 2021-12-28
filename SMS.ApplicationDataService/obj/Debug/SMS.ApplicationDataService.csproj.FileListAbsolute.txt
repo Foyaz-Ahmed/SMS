@@ -1,0 +1,6 @@
+E:\Projects\SMS\SMS.ApplicationDataService\bin\Debug\SMS.ApplicationDataService.dll
+E:\Projects\SMS\SMS.ApplicationDataService\bin\Debug\SMS.ApplicationDataService.pdb
+E:\Projects\SMS\SMS.ApplicationDataService\obj\Debug\SMS.ApplicationDataService.csproj.AssemblyReference.cache
+E:\Projects\SMS\SMS.ApplicationDataService\obj\Debug\SMS.ApplicationDataService.csproj.CoreCompileInputs.cache
+E:\Projects\SMS\SMS.ApplicationDataService\obj\Debug\SMS.ApplicationDataService.dll
+E:\Projects\SMS\SMS.ApplicationDataService\obj\Debug\SMS.ApplicationDataService.pdb
