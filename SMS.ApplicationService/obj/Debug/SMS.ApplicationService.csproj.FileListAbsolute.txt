@@ -1,6 +1,0 @@
-E:\Projects\SMS\SMS.ApplicationService\bin\Debug\SMS.ApplicationService.dll
-E:\Projects\SMS\SMS.ApplicationService\bin\Debug\SMS.ApplicationService.pdb
-E:\Projects\SMS\SMS.ApplicationService\obj\Debug\SMS.ApplicationService.csproj.AssemblyReference.cache
-E:\Projects\SMS\SMS.ApplicationService\obj\Debug\SMS.ApplicationService.csproj.CoreCompileInputs.cache
-E:\Projects\SMS\SMS.ApplicationService\obj\Debug\SMS.ApplicationService.dll
-E:\Projects\SMS\SMS.ApplicationService\obj\Debug\SMS.ApplicationService.pdb

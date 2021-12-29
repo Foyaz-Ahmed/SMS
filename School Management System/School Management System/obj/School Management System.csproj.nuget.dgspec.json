@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj"
+              },
+              "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj",
+        "projectName": "DataModels",
+        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj",
+        "projectName": "School Management System",
+        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj"
+              },
+              "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj"
+              },
+              "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

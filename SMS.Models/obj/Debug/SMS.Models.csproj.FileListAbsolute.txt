@@ -1,6 +1,0 @@
-E:\Projects\SMS\SMS.Models\bin\Debug\SMS.Models.dll
-E:\Projects\SMS\SMS.Models\bin\Debug\SMS.Models.pdb
-E:\Projects\SMS\SMS.Models\obj\Debug\SMS.Models.csproj.AssemblyReference.cache
-E:\Projects\SMS\SMS.Models\obj\Debug\SMS.Models.csproj.CoreCompileInputs.cache
-E:\Projects\SMS\SMS.Models\obj\Debug\SMS.Models.dll
-E:\Projects\SMS\SMS.Models\obj\Debug\SMS.Models.pdb

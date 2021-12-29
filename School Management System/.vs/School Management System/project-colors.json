@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b203ddca-6e7e-4cd5-93f1-92b48d7487e0": {
+      "ProjectGuid": "b203ddca-6e7e-4cd5-93f1-92b48d7487e0",
+      "DisplayName": "School Management System",
+      "ColorIndex": 0
+    },
+    "1c1e1cd7-70cf-42d9-a754-793fdda2904a": {
+      "ProjectGuid": "1c1e1cd7-70cf-42d9-a754-793fdda2904a",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "7d45bd54-920c-4091-9d44-9aff00cc938a": {
+      "ProjectGuid": "7d45bd54-920c-4091-9d44-9aff00cc938a",
+      "DisplayName": "DataModels",
+      "ColorIndex": 2
+    },
+    "931d2785-b85e-429a-9334-4d7ff1ed3472": {
+      "ProjectGuid": "931d2785-b85e-429a-9334-4d7ff1ed3472",
+      "DisplayName": "Utilities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
