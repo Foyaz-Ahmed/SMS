@@ -1,6 +1,12 @@
+E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\DataModels.dll.config
 E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\DataModels.dll
 E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\DataModels.pdb
+E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\EntityFramework.dll
+E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\EntityFramework.xml
+E:\Projects .Net Core\SMS\School Management System\DataModels\bin\Debug\EntityFramework.SqlServer.xml
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.AssemblyReference.cache
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.CoreCompileInputs.cache
+E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.CopyComplete
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.dll
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.pdb

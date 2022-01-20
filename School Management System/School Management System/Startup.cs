@@ -63,7 +63,7 @@ namespace School_Management_System
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{areas= Student}/{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area=Student}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

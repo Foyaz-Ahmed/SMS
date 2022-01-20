@@ -1,6 +1,12 @@
+E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\Utilities.dll.config
 E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\Utilities.dll
 E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\Utilities.pdb
+E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\EntityFramework.dll
+E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects .Net Core\SMS\School Management System\Utilities\bin\Debug\EntityFramework.xml
 E:\Projects .Net Core\SMS\School Management System\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
 E:\Projects .Net Core\SMS\School Management System\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+E:\Projects .Net Core\SMS\School Management System\Utilities\obj\Debug\Utilities.csproj.CopyComplete
 E:\Projects .Net Core\SMS\School Management System\Utilities\obj\Debug\Utilities.dll
 E:\Projects .Net Core\SMS\School Management System\Utilities\obj\Debug\Utilities.pdb

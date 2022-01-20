@@ -1,0 +1,8 @@
+﻿var DashboardDetailsManager = {
+
+};
+
+var DashboardSummaryHelper = {
+
+
+};

@@ -1,5 +1,3 @@
-E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
-E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\DataAccess.dll.config
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\DataAccess.dll
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\DataAccess.pdb
@@ -59,7 +57,9 @@ E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.S
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\Utilities.dll
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\DataModels.pdb
+E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\DataModels.dll.config
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\Utilities.pdb
+E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\Utilities.dll.config
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\EntityFramework.xml
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
@@ -107,6 +107,8 @@ E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.D
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.Interactive.Async.xml
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\Projects .Net Core\SMS\School Management System\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.dll
 E:\Projects .Net Core\SMS\School Management System\DataAccess\obj\Debug\DataAccess.pdb
