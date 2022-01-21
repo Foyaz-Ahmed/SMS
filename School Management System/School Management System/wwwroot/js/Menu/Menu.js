@@ -1,4 +1,17 @@
 ﻿$(document).ready(function () {
+        $("#fabric").kendoComboBox({
+            dataTextField: "text",
+            dataValueField: "value",
+            dataSource: [
+                { text: "Cotton", value: "1" },
+                { text: "Polyester", value: "2" },
+                { text: "Cotton/Polyester", value: "3" },
+                { text: "Rib Knit", value: "4" }
+            ],
+            filter: "contains",
+            suggest: true,
+            index: 3
+        });
         $("#menu").kendoMenu({
             dataSource: [
 
@@ -11,17 +24,12 @@
                 {
                     text: "Students",
                     value: "Item 1 Value",
-                    url: "https://www.google.com/",
+                    url: "https://localhost:44300/Student/Personal",
                     items: [
                         {
-                            text: " MVC 1",
+                            text: "Personal Profile",
                             value: "Sub Item 1 Value",
-                            items: [
-                                {
-                                    text: "MVC Pattern architecture with WebForm Engine, Runs on .Net 3.5 and with Visual Studio 2008 & Visual Studio 2008 SP1, Html and Ajax helpers, Routing, Unit Testing.",
-                                    value: "Sub Sub Item 1 Value"
-                                },
-                            ]
+                            url: "https://localhost:44300/Student/Profile"
                         },
                         {
                             text: " MVC 2",

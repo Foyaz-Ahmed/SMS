@@ -12,7 +12,7 @@ namespace DataModels
         public string Name { get; set; }
         public string FathersName { get; set; }
         public string MothersName { get; set; }
-        public Nullable<int> Gender { get; set; }
+        public string Gender { get; set; }
         public Nullable<int> Age { get; set; }
         public string Address { get; set; }
         public Nullable<System.DateTime> DOB { get; set; }

@@ -1,13 +1,13 @@
-﻿using FZBookHouse.DataAccess.Data;
-using FZBookHouse.DataAccess.Repository.IRepository;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
+using DataAccess.Repository.IRepository;
+using DataAccess.Data;
 
-namespace FZBookHouse.DataAccess.Repository
+namespace DataAccess.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {

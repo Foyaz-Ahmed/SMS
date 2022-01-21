@@ -1,14 +1,14 @@
 ﻿using Dapper;
-using FZBookHouse.DataAccess.Data;
-using FZBookHouse.DataAccess.Repository.IRepository;
-using Microsoft.Data.SqlClient;
+using DataAccess.Data;
+using DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
-namespace FZBookHouse.DataAccess.Repository
+namespace DataAccess.Repository
 {
     public class SP_Call : ISP_Call
     {

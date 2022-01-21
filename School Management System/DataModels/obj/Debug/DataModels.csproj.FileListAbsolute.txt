@@ -10,3 +10,15 @@ E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataMode
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.CopyComplete
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.dll
 E:\Projects .Net Core\SMS\School Management System\DataModels\obj\Debug\DataModels.pdb
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\DataModels.dll.config
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\DataModels.dll
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\DataModels.pdb
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\EntityFramework.dll
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\EntityFramework.xml
+E:\Projects\SMS\School Management System\DataModels\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.AssemblyReference.cache
+E:\Projects\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.CoreCompileInputs.cache
+E:\Projects\SMS\School Management System\DataModels\obj\Debug\DataModels.csproj.CopyComplete
+E:\Projects\SMS\School Management System\DataModels\obj\Debug\DataModels.dll
+E:\Projects\SMS\School Management System\DataModels\obj\Debug\DataModels.pdb

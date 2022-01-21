@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj": {}
+    "E:\\Projects\\SMS\\School Management System\\School Management System\\School Management System.csproj": {}
   },
   "projects": {
-    "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
+    "E:\\Projects\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\Projects\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\Projects\\SMS\\School Management System\\DataAccess\\DataAccess.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
-                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj"
+              "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+                "projectPath": "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj"
               },
-              "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
-                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj"
+              "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -26,11 +26,11 @@
         "net472": {}
       }
     },
-    "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+    "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj",
+        "projectUniqueName": "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj",
         "projectName": "DataModels",
-        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj",
+        "projectPath": "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -41,14 +41,14 @@
         "net472": {}
       }
     },
-    "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj": {
+    "E:\\Projects\\SMS\\School Management System\\School Management System\\School Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj",
+        "projectUniqueName": "E:\\Projects\\SMS\\School Management System\\School Management System\\School Management System.csproj",
         "projectName": "School Management System",
-        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\School Management System.csproj",
+        "projectPath": "E:\\Projects\\SMS\\School Management System\\School Management System\\School Management System.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects .Net Core\\SMS\\School Management System\\School Management System\\obj\\",
+        "outputPath": "E:\\Projects\\SMS\\School Management System\\School Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataAccess\\DataAccess.csproj"
+              "E:\\Projects\\SMS\\School Management System\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\Projects\\SMS\\School Management System\\DataAccess\\DataAccess.csproj"
               },
-              "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
-                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\DataModels\\DataModels.csproj"
+              "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj": {
+                "projectPath": "E:\\Projects\\SMS\\School Management System\\DataModels\\DataModels.csproj"
               },
-              "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
-                "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj"
+              "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -90,6 +90,10 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -142,11 +146,11 @@
         }
       }
     },
-    "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
+    "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "E:\\Projects .Net Core\\SMS\\School Management System\\Utilities\\Utilities.csproj",
+        "projectPath": "E:\\Projects\\SMS\\School Management System\\Utilities\\Utilities.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

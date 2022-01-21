@@ -1,12 +1,12 @@
-﻿using FZBookHouse.DataAccess.Data;
-using FZBookHouse.DataAccess.Repository.IRepository;
-using FZBookHouse.Models;
-using FZBookHouse.Models.ViewModels;
+﻿using DataAccess.Data;
+using DataAccess.Repository.IRepository;
+using DataModels;
+using DataModels.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace FZBookHouse.DataAccess.Repository
+namespace DataAccess.Repository
 {
     public class UnitofWork: IUnitofWork
     {
@@ -15,18 +15,11 @@ namespace FZBookHouse.DataAccess.Repository
         public UnitofWork(ApplicationDbContext db)
         {
             _db = db;
-            Category = new CategoryRepository(_db);
-            CoverType = new CoverTypeRepository(_db);
             SP_Call = new SP_Call(_db);
-            Product = new ProductRepository(_db);
-            Company = new CompanyRepository(_db);
-            ApplicationUser = new ApplicationUserRepository(_db);
+            Personal = new PersonalRepository(_db);
+
         }
-        public ICategoryRepository Category { get; private set; }
-        public IProductRepository Product { get; private set; }
-        public ICoverTypeRepository CoverType { get; private set; }
-        public ICompanyRepository Company { get; private set; }
-        public IApplicationUserRepository ApplicationUser { get; private set; }
+        public IPersonalRepository Personal { get; private set; }
         
         public ISP_Call SP_Call { get; private set; }
 

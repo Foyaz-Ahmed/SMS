@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.2.0.123\lib\net461\Dapper.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -232,6 +235,14 @@
   <ItemGroup>
     <Compile Include="Data\ApplicationDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IRepository\IPersonalRepository.cs" />
+    <Compile Include="Repository\IRepository\IRepository.cs" />
+    <Compile Include="Repository\IRepository\ISP_Call.cs" />
+    <Compile Include="Repository\IRepository\IUnitofWork.cs" />
+    <Compile Include="Repository\PersonalRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
+    <Compile Include="Repository\SP_Call.cs" />
+    <Compile Include="Repository\UnitofWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
