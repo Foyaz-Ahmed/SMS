@@ -1,6 +1,6 @@
 ﻿//Summary Manager
 
-var PersonalSummaryManager = {
+var StudentSummaryManager = {
 
     gridDataSource: function () {
 
@@ -10,7 +10,7 @@ var PersonalSummaryManager = {
 
             transport: {
                 read: {
-                    url: '../Student/Personal/PersonalInfo/',
+                    url: '../Student/Student/StudentInfo/',
 
                     type: "POST",
 
@@ -44,16 +44,16 @@ var PersonalSummaryManager = {
 
 //Summary Helper
 
-var PersonalSummaryHelper = {
+var StudentSummaryHelper = {
 
-    GeneratedPersonalSummaryGrid: function () {
+    GeneratedStudentSummaryGrid: function () {
 
-        $("#personalGridAll").kendoGrid({
+        $("#studentGridAll").kendoGrid({
 
-            dataSource: PersonalSummaryManager.gridDataSource(),
+            dataSource: StudentSummaryManager.gridDataSource(),
 
             xheight: 300,
-            columns: PersonalSummaryHelper.GeneratedPersonalInfoColumns(),
+            columns: StudentSummaryHelper.GeneratedStudentInfoColumns(),
             sortable: true,
             reorderable: true,
             resizable: true,
@@ -65,16 +65,14 @@ var PersonalSummaryHelper = {
         });
     },
 
-    GeneratedPersonalInfoColumns: function () {
+    GeneratedStudentInfoColumns: function () {
         return columns = [
-            { field: "ID", hidden: true },
+            { field: "StudentID", hidden: true },
             { field: "Name", title: "Name", width: 60 },
-            { field: "FathersName", title: "Father's Name", width: 60 },
-            { field: "MothersName", title: "Mother's Name", width: 60 },
-            { field: "Age", title: "Age", width: 60, sortable: true },
-            { field: "Gender", hidden: false, title: "Gender", width: 60, sortable: false },
-            { field: "Address", hidden: false, title: "Address", width: 60, sortable: false },
-            { field: "DOB", title: "Date of Birth", width: 60, sortable: true, template: '#= kendo.toString(DOB,"MM/dd/yyyy") #' },
+            { field: "DepartmentId", title: "Department Id", width: 60 },
+            { field: "EducationId", title: "Edu Id", width: 60 },
+            { field: "ClassId", title: "Class", width: 60, sortable: true },
+            { field: "Status", hidden: false, title: "Status", width: 60, sortable: false },
         ];
     },
 

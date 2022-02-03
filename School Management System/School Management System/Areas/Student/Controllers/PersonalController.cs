@@ -35,7 +35,6 @@ namespace School_Management_System.Areas.Personal.Controllers
 
             };
 
-
             return Json(data);
            
         }

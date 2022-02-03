@@ -7,33 +7,42 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using DataAccess.Data;
 
 namespace School_Management_System.Areas.Student.Controllers
 {
     [Area("Student")]
-    public class HomeController : Controller
+    public class StudentController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _db;
 
-        public HomeController(ILogger<HomeController> logger)
+        public StudentController(ApplicationDbContext db)
         {
-            _logger = logger;
+            _db = db;
+        }
+
+        public IActionResult StudentInfo()
+        {
+
+            var studentInfo = _db.Students.ToList();
+
+            var data = new
+            {
+                Items = studentInfo,
+                TotalCount = studentInfo.Count
+
+            };
+
+            return Json(data);
+
         }
 
         public IActionResult Index()
         {
+
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }
